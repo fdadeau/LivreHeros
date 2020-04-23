@@ -1,72 +1,28 @@
-Bonjour à tous,
+[1] Titre du chapitre 1 (sur la même ligne)
 
-Je suppose que vous avez tous lu le message de la direction des études qui date de mardi soir.
+Texte du chapitre 
 
-Si on résume ce qui nous concerne  :
+Eventuellement sur plusieurs paragraphe. 
 
-- au S6 tout est à 100% en contrôle continu et la seconde chance est à intégrer à la note finale de l'UE. Cette seconde chance peut prendre la forme que l'on veut (épreuve supplémentaire écrite en "temps réel" ou en asynchrone ou à l'oral, neutralisation d'une note, etc.). Je ne vous cache pas que ma préférence va à la neutralisation d'une note.
+--> 2 : Le texte du lien ou de l'action qui mène au 2.
 
-- au S5 par contre, il y a du changement par rapport à ce qui était prévu : a priori, nous ne pouvons pas changer les M3C pour les semestres impairs et neutraliser une note. Il faudra donc arranger une évaluation supplémentaire, obligatoirement à distance. A ceci s'ajoute la difficulté, comme évoquée précédemment que nos étudiants soient en stage sur la période des 2e sessions (du 22 juin au 3 juillet).
+--> 3 : Le texte du lien ou de l'action qui mène au 3.
 
-Voici une projection des notes des étudiants sur le S5 (code couleur : case rouge = UE non validée et non compensée, case jaune = UE déjà validée pour les redoublants). Vous constaterez qu'il va falloir discuter quelques cas en jury, mais que l'on aura quoi qu'il arrive pas mal de monde qui sera concerné par ces épreuves de rattrapage.
 
-Le seul d'entre nous qui est tranquille est Jonathan, puisqu'il n'est pas concerné par une seconde session. Sinon je vous ai indiqué potentiellement le nombre d'étudiants concernés.
+[2] Titre du chapitre 2 (sur la même ligne)
 
-Mes propositions seraient les suivantes :
+Texte du chapitre 2
+Avec un retour à la ligne.
 
-1- on fait remonter à la direction des études de l'UFR pour le 28 avril les modalités prévues (évaluation à distance a priori -- pour vous donner une idée : en web, je pense leur donner une sorte de TP à distance à faire en 1 demi-journée ou une journée on verra).
+--> 1 : Retour au 1.
 
---> merci de m'indiquer par retour de mail l'option que vous choisissez (voir mail de F. Tatin-Froux il y a des numéros de 2 à 5)
+--> 3 : Aller au 3.
 
-2- on fait le jury à la fin des vacances (parce que bon, là on va quand même se reposer un peu) en visio. Pour ce jury, on avait imaginé initialement faire un calcul de 2e chance modifiant les coefficients ou en neutralisant une note, etc. Je vous propose d'appliquer ce calcul, et que l'on s'appuie dessus pour savoir qui on remonte avec des points jury. L'objectif de la manoeuvre est de permettre à ceux qui "pouvaient avoir le semestre" de le valider directement, sans passer par l'épreuve de rattrapage à distance qui me semble très hasardeuse, et que je ne ferais passer qu'aux cas désespérés qui n'ont que peu d'espoir d'avoir l'année. (De ce fait, je compte aussi un peu sur l'idée qu'ils ne se présenteront pas à l'épreuve).
 
-3- une fois le jury passé, et validé, on informe les étudiants (début mai) des résultats et des modalités de 2e session.
+[3] Titre du chapitre 3 (sur la même ligne)
 
-Qu'en pensez-vous ?
-
-En prévision du jury :
-- un Doodle pour faire un jury en visio, la semaine de la "rentrée" (4 mai) :
-- une feuille de calcul partagée qui permet de simuler les notes "avec 2e chance intégrée" et qui sera utilisée pour le jury :
+Bravo vous avez gagné.
 
 
 
-
-Le 17/04/2020 à 08:55, Frederic Dadeau a écrit :
-> Bonjour à tous,
->
-> [Message adressé aux responsables d'UE en Licence 3]
->
-> J'espère que vous allez bien.
->
-> Je rebondis sur le mail envoyé par la Présidence hier qui (re)cadre les M3C pour la fin de cette année.
->
-> Pour la 3e année de Licence, je vous contacte donc pour savoir ce que vous comptez faire pour les modules qui vous concernent. Quelques éléments/propositions ci-dessous.
->
-> Préambule : la L3 n'est pas l'année la plus compliquée car tous les cours ont eu lieu et les notes de "1ère session" (qui n'en est pas une mais passons) ont tout ce qu'il faut comme évaluations pour être calculées aussi bien au S5 qu'au S6. Seul point noir, le stage pour lequel nous avons demandé la neutralisation (j'attends toujours la confirmation officielle de celle-ci, mais je ne vois pas comment il pourrait en être autrement) et son passage sous forme d'unité d'enseignement libre (UEL) pour les étudiants qui ont déjà commencé, ou ceux qui souhaiteraient (et pourraient) faire un stage malgré tout.
->
-> Problème : il nous faut donc statuer sur la 2e chance. Dans l'idée que je me fais, il me semble inutilement complexe et très aléatoire de vouloir faire des évaluations à distance pour celle-ci : (1) nous n'avons aucune visibilité sur les équipements/accès des étudiants au matériel nécessaire, (2) ni potentiellement sur l'identité de l'étudiant qui réalise le travail ou sur l'éventuelle aide imprévue dont il pourrait bénéficier, et (3) certains d'entre eux seront potentiellement encore en stage UEL au moment où il faudra les mobiliser.
->
-> Possibilités :
-> - Il existe dans le RGEE la possibilité d'implémenter la 2e chance comme une règle de calcul de la moyenne de l'UE qui consisterait à ne pas comptabiliser une des notes initialement recueillies et/ou prendre en compte un TP supplémentaire qui n'était pas noté initialement, ou autres... de façon à modifier la manière de calculer la moyenne. Le nouveau calcul serait le même pour tous les étudiants concernés par la 2e chance, mais la meilleure des deux notes serait conservée pour chaque étudiant.
-> - D'autres options sont possibles pour la seconde chance (listées dans le document envoyé hier par la présidence), vous pouvez choisir de rester sur une évaluation supplémentaire qui pourrait être faite soit sous la forme d'un travail à faire à distance (mais cela pose les soucis évoqués précédemment) ou alors un oral, mais qui va mobiliser l'équipe pédagogique de façon relativement intensive (toujours pareil, le problème d'accès au matériel reste, mais vu que l'effectif pourrait être assez réduit, le risque est potentiellement moindre...).
->
-> A noter qu'en L3, le stage étant neutralisé, rien n'empêcherait (sous réserves d'avoir toutes les notes du S6) de faire le jury des semestres et d'année dès début mai ce qui laisserait pas mal de temps disponible pour organiser d'éventuels évaluations de rattrapages d'ici l'été.
->
-> Ma proposition : implémenter la 2e chance en L3 en utilisant la neutralisation d'une note/l'ajout d'un TP initialement non noté/etc. dans le calcul de la nouvelle note. C'est à mon humble avis la solution la plus indolore pour les étudiants, la plus équitable, et la plus simple à mettre en place.
->
-> Question(s) : Etes-vous d'accord avec ce principe ?
->     - Si oui, quel "2e calcul" feriez-vous (si on doit modifier les M3C il faudra l'indiquer de façon assez précise)
->     - Si non, quelle autre possibilité d'évaluation envisageriez-vous ?
->
-> A mon sens, c'est mieux si la solution est uniforme sur toutes les UE. Mais on peut aussi discuter de cela.
->
-> Merci de me donner une réponse d'ici lundi soir prochain. Comme vous l'avez vu (dans la presse) les délais sont courts, l'université souhaitant apparemment montrer qu'elle a les choses en main, ce qui consiste à sacrifier les vacances de ses personnels pour contribuer à "l'effort de guerre".
->
-> N'hésitez toutefois pas à lancer les débats par mail. On peut se prévoir une visio si besoin d'en discuter de vive voix.
->
-> Merci et bonne journée,
-> Frédéric
->
-> PS. J'attire votre attention sur le fait que la décision pour la L3 sera scrutée en haut lieu...
->
 
