@@ -14,7 +14,7 @@ Eventuellement sur plusieurs paragraphe.
 Texte du chapitre 2
 Avec un retour à la ligne.
 
---> 1 : Retour au 1.
+--> 4 : Retour au 4.
 
 --> 3 : Aller au 3.
 
@@ -23,6 +23,17 @@ Avec un retour à la ligne.
 
 Bravo vous avez gagné.
 
+--> 1 : Retour au début. 
 
+[4] Presque fin
+
+Inatteignable.
+
+--> 5 : Tentative.
+
+[5] Prout
+dsjflskdfj
+
+Fin inatteignable.
 
 
